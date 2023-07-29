@@ -26,7 +26,7 @@
             <img class="h-auto max-w-full rounded-lg" src="../assets/image/pt3.jpg" alt="">
         </div>
         <div>
-            <img class="h-auto max-w-full rounded-lg" src="../assets/image/pt4.jpg" alt="">
+            <img class="h-auto max-w-full rounded-lg" src="../assets/logo-daffa.png" alt="">
         </div>
     </div>
     </center>
