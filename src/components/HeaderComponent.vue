@@ -82,7 +82,7 @@
 
  }
  .button{
-   margin-left: 20%;
+   margin-left: 15%;
  }
  @media only screen and (max-width: 500px) {
    .judul-header{
