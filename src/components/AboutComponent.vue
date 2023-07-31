@@ -15,18 +15,9 @@
   </div>
   <div class="basis-1/2">
     <center>
-      <div class="grid grid-cols-2 gap-2">
+      <div class="grid grid-cols-1 gap-1">
         <div>
-            <img class="h-auto max-w-full rounded-lg" src="../assets/image/pt1.jpg" alt="">
-        </div>
-        <div>
-            <img class="h-auto max-w-full rounded-lg" src="../assets/image/pt2.jpg" alt="">
-        </div>
-        <div>
-            <img class="h-auto max-w-full rounded-lg" src="../assets/image/pt3.jpg" alt="">
-        </div>
-        <div>
-            <img class="h-auto max-w-full rounded-lg" src="../assets/logo-daffa.png" alt="">
+            <img class="h-50 w-72 rounded-lg" src="../assets/image/pt1.jpg" alt="">
         </div>
     </div>
     </center>

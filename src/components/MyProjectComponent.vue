@@ -2,7 +2,8 @@
   <div class="skills-header font-bold" id="project">
      <h1>My Project</h1>   
      </div>
-  <div class="flex flex-row flex-wrap" style="margin-left: 200px;">
+     <div class="card-project">
+  <div class="flex flex-row flex-wrap">
     <div class="basis-1/2 mt-5">
       
 <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
@@ -43,8 +44,21 @@
         </a>
     </div>
 </div>
-
+</div>
   </div>
   </div>
   
 </template>
+<style>
+@media only screen and (max-width:500px) {
+  /* For mobile phones: */
+  .card-project{
+    width: 100%;
+  }
+}
+@media only screen and (min-width:1000px) {
+  .card-project{
+    margin-left: 180px;
+  }
+}
+</style>
