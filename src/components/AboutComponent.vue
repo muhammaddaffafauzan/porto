@@ -7,20 +7,20 @@
   <div class="basis-1/2">
      <p class="about">
       About me
-     </p><br>
+     </p>
      <p class="text-about">
     &ensp;&ensp; Saya muhammad daffa fauzan umur saya sekarang 18 tahun, karir saya lulus sd di SDN Jatimekar, lulus smp di SMPN 3 Baleendah dan saat ini masih pelajar Di SMK Assalaam Bandung Jurusan Rekaya Perangkat Lunak(RPL),
     saya 2 bersaudara saya sebagai kakak dan 1 laki-laki adik saya masih pelajar sd. saya terlahir di kelurga sederhana bahagia. cita cita saya ingin menjadi pengusaha muda sukses Amiin.
      </p>
   </div>
   <div class="basis-1/2">
-    <center>
+    
       <div class="grid grid-cols-1 gap-1">
-        <div>
+        <div class="img">
             <img class="h-50 w-72 rounded-lg" src="../assets/image/pt1.jpg" alt="">
         </div>
     </div>
-    </center>
+
 </div>
 </div>
 <!-- </div> -->
@@ -39,5 +39,36 @@
   font-family: 'Poppins', sans-serif;
   text-align: left;
   text-align: justify;
+}
+
+@media only screen and (max-width: 500px) {
+  .img{
+    margin-top: 10%;
+    margin-right: 5%;
+  }
+  .text-about{
+    font-size: 10px;
+    margin-right: 10%;
+  }
+  .about{
+    font-size: 15px;
+    margin-left: 20%;
+  }
+}
+@media only screen and (min-width: 1000px) {
+  .img{
+  width: 300px;
+  margin-top: 50px;
+  margin-left: 180px;
+
+  }
+  .text-about{
+    font-size: 20px;
+    margin-left: 10%;
+  }
+  .about{
+    font-size: 35px;
+    margin-left: 15%;
+  }
 }
 </style>

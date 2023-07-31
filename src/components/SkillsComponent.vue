@@ -1,7 +1,7 @@
 <template>
  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#E70000" fill-opacity="1" d="M0,64L30,80C60,96,120,128,180,122.7C240,117,300,75,360,85.3C420,96,480,160,540,165.3C600,171,660,117,720,128C780,139,840,213,900,208C960,203,1020,117,1080,85.3C1140,53,1200,75,1260,90.7C1320,107,1380,117,1410,122.7L1440,128L1440,320L1410,320C1380,320,1320,320,1260,320C1200,320,1140,320,1080,320C1020,320,960,320,900,320C840,320,780,320,720,320C660,320,600,320,540,320C480,320,420,320,360,320C300,320,240,320,180,320C120,320,60,320,30,320L0,320Z"></path></svg>
-  
-    <div class="flex flex-row text-white gap-4" style="background-color: #E70000;">
+     <div class="indikator">
+    <div class="flex flex-row text-white gap-4">
   <div class="basis-1/2">
   <p class="text-center font-bold text-6xl">
    5+ <br>
@@ -20,6 +20,7 @@
    <span class="text-center font-medium text-2xl">achievement</span>
   </p>
   </div>
+</div>
 </div>
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#E70000 " fill-opacity="1" d="M0,128L80,122.7C160,117,320,107,480,112C640,117,800,139,960,160C1120,181,1280,203,1360,213.3L1440,224L1440,0L1360,0C1280,0,1120,0,960,0C800,0,640,0,480,0C320,0,160,0,80,0L0,0Z"></path></svg>
   
@@ -200,6 +201,9 @@ border-radius: 45px 0 0 45px;
 color: #333;
 margin-top: 0.5rem;
 }
+.indikator{
+  background-color: #E70000;
+}
 @media screen and (max-width:990px){
  .skills-container{
  grid-tempLate-columns: repeat(2, 1fr);
@@ -211,6 +215,11 @@ margin-top: 0.5rem;
  .skills-container{
  grid-tempLate-columns:2fr;
  padding: 2rem 50px;
+ }
+}
+@media screen and (max-width:500px){
+ .indikator{
+  font-size: 100px;
  }
 }
 </style>
