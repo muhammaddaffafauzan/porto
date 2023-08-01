@@ -9,8 +9,7 @@
       About me
      </p>
      <p class="text-about">
-    &ensp;&ensp; Saya muhammad daffa fauzan umur saya sekarang 18 tahun, karir saya lulus sd di SDN Jatimekar, lulus smp di SMPN 3 Baleendah dan saat ini masih pelajar Di SMK Assalaam Bandung Jurusan Rekaya Perangkat Lunak(RPL),
-    saya 2 bersaudara saya sebagai kakak dan 1 laki-laki adik saya masih pelajar sd. saya terlahir di kelurga sederhana bahagia. cita cita saya ingin menjadi pengusaha muda sukses Amiin.
+    &ensp;&ensp; I am Muhammad Daffa Fauzan, I am now 18 years old, my career is graduating from elementary school at SDN Jatimekar, graduating from junior high school at SMPN 3 Baleendah and currently still a student at SMK Assalaam Bandung, majoring in Software Engineering (RPL), I have 2 brothers, I am an older brother and 1 son -My younger brother is still an elementary school student. I was born in a simple happy family. My goal is to become a successful young entrepreneur, Amin.
      </p>
   </div>
   <div class="basis-1/2">

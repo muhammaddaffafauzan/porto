@@ -48,10 +48,10 @@
       <button type="submit" class="text-white bg-red-700 hover:bg-white-800 w-full focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800 block">Send message</button>
    </form>
    <p class="mb-2 text-sm text-gray-500 dark:text-gray-400">
-      <a href="#" class="hover:underline">info@company.com</a>
+      <a href="#" class="hover:underline">daffafauzan0405@gmail.com</a>
    </p>
    <p class="text-sm text-gray-500 dark:text-gray-400">
-      <a href="#" class="hover:underline">212-456-7890</a>
+      <a href="#" class="hover:underline">+62 8953-8741-7000</a>
    </p>
 </div>
    
@@ -87,19 +87,19 @@
  @media only screen and (max-width: 500px) {
    .judul-header{
   font-family: 'Montserrat', sans-serif;
-  font-size: 18px;
+  font-size: 15px;
   margin-left: 80px;
   margin-top: 50px;
  }
  .text-header{
-  font-size: 18px;
+  font-size: 12px;
   margin-left: 80px;
  }
  .header-img{
-  margin-left: 150px;
+  margin-left: 100px;
  }
  .button{
-   width: 200px;
+   width: 300px;
    margin-left: 80px;
    margin-top: 2%;
  }
